@@ -1,0 +1,2 @@
+class ItemTest < ApplicationRecord
+end
